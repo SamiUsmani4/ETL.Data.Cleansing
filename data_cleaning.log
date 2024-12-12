@@ -1,0 +1,5 @@
+2024-11-12 21:50:00,185 - INFO - Data loaded successfully.
+2024-11-12 21:50:00,185 - ERROR - Error handling missing values: can only concatenate str (not "int") to str
+2024-11-12 21:50:00,186 - INFO - Column formatting applied successfully.
+2024-11-12 21:50:00,188 - INFO - Outlier detection applied successfully.
+2024-11-12 21:50:00,188 - INFO - Data cleaning pipeline executed successfully.

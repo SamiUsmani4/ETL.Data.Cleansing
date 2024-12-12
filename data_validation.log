@@ -1,0 +1,9 @@
+2024-11-12 22:03:48,974 - INFO - Data loaded successfully for validation.
+2024-11-12 22:03:48,974 - WARNING - Found 1 missing values across columns.
+2024-11-12 22:03:48,975 - INFO - Column 'Name' has 3 unique values.
+2024-11-12 22:03:48,975 - INFO - Column 'Age' has 3 unique values.
+2024-11-12 22:03:48,975 - INFO - Column 'Salary' has 3 unique values.
+2024-11-12 22:03:48,975 - INFO - Column 'Department' has 3 unique values.
+2024-11-12 22:03:48,976 - INFO - All values in 'Age' are within the specified range.
+2024-11-12 22:03:48,976 - INFO - No duplicate records found.
+2024-11-12 22:03:48,976 - INFO - Data validation pipeline executed successfully.
